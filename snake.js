@@ -1,6 +1,6 @@
 import { getInputDirection } from "./input.js";
 
-export const snakeSpeed = 10;
+export const snakeSpeed = 8;
 const snakeBody = [{ x: 11, y: 11 }];
 let newSegments = 0;
 // snake is not growing from the start
