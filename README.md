@@ -6,4 +6,4 @@ Simple snake game. Use arrow keys on the keyboard to move the snake to its meal.
 
 Deployed through surge
 
-[Link to game](wide-eyed-snek.surge.sh)
+[Link to game]: wide-eyed-snek.surge.sh
